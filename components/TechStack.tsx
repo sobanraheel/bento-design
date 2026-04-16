@@ -9,8 +9,10 @@ const skills: Skill[] = [
   { name: 'Tailwind', icon: '🌊', color: 'bg-teal-500/10 text-teal-400' },
   { name: 'Framer', icon: '✨', color: 'bg-purple-500/10 text-purple-400' },
   { name: 'D3.js', icon: '📊', color: 'bg-orange-500/10 text-orange-400' },
+  { name: 'Docker', icon: '🐳', color: 'bg-blue-600/10 text-blue-300' },
   { name: 'Rust', icon: '🦀', color: 'bg-red-500/10 text-red-400' },
   { name: 'Docker', icon: '🐳', color: 'bg-blue-600/10 text-blue-300' },
+  { name: 'Framer', icon: '✨', color: 'bg-purple-500/10 text-purple-400' },
 ];
 
 const TechStack: React.FC = () => {
