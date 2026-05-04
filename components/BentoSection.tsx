@@ -50,7 +50,7 @@ const BentoSection: React.FC = () => {
       <BentoItem className="col-span-1 bg-slate-900/20">
         <div className="flex flex-col h-full items-center justify-center">
           <span className="text-2xl mb-1">🇺🇸</span>
-          <span className="text-lg font-black text-white leading-tight">San Francisco</span>
+          <span className="text-lg font-black text-white leading-tight">New York</span>
           <span className="text-[9px] font-mono text-slate-500 uppercase">GMT-7 • 12:45 PM</span>
         </div>
       </BentoItem>
