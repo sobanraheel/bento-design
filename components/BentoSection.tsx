@@ -27,7 +27,7 @@ const BentoSection: React.FC = () => {
               Building the next <br/><span className="text-indigo-500">digital frontier</span>.
             </h2>
             <p className="text-slate-400 text-sm max-w-sm leading-snug">
-              I'm a Full-stack Engineer & Product Designer focused on crafting high-performance, aesthetically pleasing user interfaces.
+              I'm a Full-stack Developer & Product Designer focused on crafting high-performance, aesthetically pleasing user interfaces.
             </p>
           </div>
           <div className="flex -space-x-2 overflow-hidden items-center mt-4">
