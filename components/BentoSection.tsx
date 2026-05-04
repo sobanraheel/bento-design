@@ -35,7 +35,7 @@ const BentoSection: React.FC = () => {
               <img key={i} className="inline-block h-7 w-7 rounded-full ring-2 ring-slate-950" src={`https://picsum.photos/id/${i+50}/100/100`} alt="Team Member" />
             ))}
             <div className="flex items-center justify-center h-7 w-7 rounded-full bg-slate-800 ring-2 ring-slate-950 ml-1">
-              <span className="text-[9px] font-bold text-slate-300">+12</span>
+              <span className="text-[9px] font-bold text-slate-300">+15</span>
             </div>
           </div>
         </div>
